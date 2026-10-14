@@ -2,6 +2,9 @@
 ## Hack-O-Week — SIT Nagpur, CSE Batch 2025–29
 ### A Complete, Beginner-Friendly Guide to Backend Development
 
+> 🌐 **Live Deployed App:** [https://nodejs-express-learning-lab.vercel.app/](https://nodejs-express-learning-lab.vercel.app/)  
+> 💻 **GitHub Repository:** [https://github.com/Sameerkaradbhajne/nodejs-express-learning-lab](https://github.com/Sameerkaradbhajne/nodejs-express-learning-lab)
+
 Welcome to the **Node.js & Express.js Learning Lab**! This project was built specifically for the **Hack-O-Week** evaluation at **Symbiosis Institute of Technology (SIT), Nagpur** for the **Computer Science & Engineering Batch 2025–29**.
 
 If you are learning backend development for the first time, this document is designed for you. It explains every single concept in simple English, breaks down every line of code, shows you how the project is organized, explains how to run and test it, and includes over 30 viva questions with concise answers to help you ace your college evaluation.
