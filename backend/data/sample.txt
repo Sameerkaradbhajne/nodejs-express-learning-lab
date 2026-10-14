@@ -1,0 +1,4 @@
+Welcome to the Node.js & Express.js Learning Lab!
+This sample file is read directly from disk using Node's built-in 'fs' (File System) module.
+Filesystem access is one of the core superpowers of server-side JavaScript!
+Hack-O-Week — SIT Nagpur, CSE Batch 2025–29.

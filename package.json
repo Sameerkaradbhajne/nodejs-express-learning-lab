@@ -1,0 +1,23 @@
+{
+  "name": "node-express-learning-lab",
+  "version": "1.0.0",
+  "description": "Node.js & Express.js Learning Lab — Hack-O-Week SIT Nagpur CSE Batch 2025–29",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "node backend/server.js",
+    "backend": "cd backend && npm run dev",
+    "raw": "node backend/raw-server.js",
+    "frontend": "cd frontend && npm run dev",
+    "install:all": "npm install --prefix backend && npm install --prefix frontend"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "hack-o-week",
+    "sit-nagpur",
+    "learning-lab",
+    "rest-api"
+  ],
+  "author": "SIT Nagpur CSE Batch 2025–29",
+  "license": "ISC"
+}
